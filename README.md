@@ -1,5 +1,5 @@
 ## Tracer 
-a hero in Blizzard Game 《OverWatch》, she can use pulse bombs and spatio-temporal shuttles. 
+a hero in Blizzard Game `Overwatch`, she can use pulse bombs and spatio-temporal shuttles. 
 this project is a go package to upload with kafka and http api. you can accept this message in other project and resolve it by your self 
 
 #### install 
