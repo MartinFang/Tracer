@@ -24,7 +24,7 @@ type config struct {
 	URL          string
 }
 
-var rollConfig *config
+var rollConfig config
 
 var (
 	producer sarama.AsyncProducer
